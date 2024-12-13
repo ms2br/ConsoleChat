@@ -32,7 +32,7 @@ namespace ChatClient
             {
                 while ((bytesRead = stream.ReadAsync(buffer, 0, buffer.Length).Result) != 0)
                 {                    
-                    string message = Encoding.UTF8.GetString(Encryption.DistributedEncryptMessage(ExtractNonZeroBytes(buffer)));
+                    string message = Encoding.ASCII.GetString(Encryption.DistributedEncryptMessage(ExtractNonZeroBytes(buffer)));
                     await Console.Out.WriteLineAsync($"Message : {message}");
                 }
             }

@@ -16,3 +16,21 @@ C:\It\CodeTasks\ChatClient\ChatClient\obj\Debug\net8.0\ref\ChatClient.dll
 C:\It\CodeTasks\ChatClient\ChatClient\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
 C:\It\CodeTasks\ChatClient\ChatClient\obj\Debug\net8.0\ChatClient.csproj.AssemblyReference.cache
 C:\It\CodeTasks\ChatClient\ChatClient\obj\Debug\net8.0\ChatClient.csproj.Up2Date
+C:\Users\msbr\OneDrive\İş masası\ConsoleChat\ChatClient\ChatClient\obj\Debug\net8.0\ChatClient.dll
+C:\Users\msbr\OneDrive\İş masası\ConsoleChat\ChatClient\ChatClient\obj\Debug\net8.0\refint\ChatClient.dll
+C:\Users\msbr\OneDrive\İş masası\ConsoleChat\ChatClient\ChatClient\obj\Debug\net8.0\ChatClient.pdb
+C:\Users\msbr\OneDrive\İş masası\ConsoleChat\ChatClient\ChatClient\obj\Debug\net8.0\ChatClient.csproj.AssemblyReference.cache
+C:\Users\msbr\OneDrive\İş masası\ConsoleChat\ChatClient\ChatClient\obj\Debug\net8.0\ChatClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msbr\OneDrive\İş masası\ConsoleChat\ChatClient\ChatClient\obj\Debug\net8.0\ChatClient.AssemblyInfoInputs.cache
+C:\Users\msbr\OneDrive\İş masası\ConsoleChat\ChatClient\ChatClient\obj\Debug\net8.0\ChatClient.AssemblyInfo.cs
+C:\Users\msbr\OneDrive\İş masası\ConsoleChat\ChatClient\ChatClient\obj\Debug\net8.0\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\msbr\OneDrive\İş masası\ConsoleChat\ChatClient\ChatClient\obj\Debug\net8.0\ChatClient.sourcelink.json
+C:\Users\msbr\OneDrive\İş masası\ConsoleChat\ChatClient\ChatClient\bin\Debug\net8.0\ChatClient.exe
+C:\Users\msbr\OneDrive\İş masası\ConsoleChat\ChatClient\ChatClient\bin\Debug\net8.0\ChatClient.deps.json
+C:\Users\msbr\OneDrive\İş masası\ConsoleChat\ChatClient\ChatClient\bin\Debug\net8.0\ChatClient.runtimeconfig.json
+C:\Users\msbr\OneDrive\İş masası\ConsoleChat\ChatClient\ChatClient\bin\Debug\net8.0\ChatClient.dll
+C:\Users\msbr\OneDrive\İş masası\ConsoleChat\ChatClient\ChatClient\bin\Debug\net8.0\ChatClient.pdb
+C:\Users\msbr\OneDrive\İş masası\ConsoleChat\ChatClient\ChatClient\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\msbr\OneDrive\İş masası\ConsoleChat\ChatClient\ChatClient\obj\Debug\net8.0\ChatClient.csproj.Up2Date
+C:\Users\msbr\OneDrive\İş masası\ConsoleChat\ChatClient\ChatClient\obj\Debug\net8.0\ChatClient.genruntimeconfig.cache
+C:\Users\msbr\OneDrive\İş masası\ConsoleChat\ChatClient\ChatClient\obj\Debug\net8.0\ref\ChatClient.dll

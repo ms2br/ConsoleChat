@@ -8,7 +8,7 @@ namespace ChatClient
         static void Main(string[] args)
         {
             Client client = new Client();
-            client.CreateClient().Wait();
+            client.CreateClientAsync().Wait();
         }
     }
 }

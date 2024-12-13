@@ -41,7 +41,7 @@ namespace ChatServer
             {
                 while ((bytesRead = await stream.ReadAsync(buffer, 0, buffer.Length)) != 0)
                 {
-                    string message = Encoding.UTF8.GetString(buffer, 0, bytesRead);
+                    string message = Encoding.ASCII.GetString(buffer, 0, bytesRead);
                     await Console.Out.WriteLineAsync($"Alinan : {message}");
                     Task.Run(() => MessageSharerAsync(tcp, buffer));
                 }

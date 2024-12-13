@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\It\\CodeTasks\\ChatClient\\",
+  "WorkspaceRootPath": "C:\\Users\\msbr\\OneDrive\\\u0130\u015F masas\u0131\\ConsoleChat\\ChatClient\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DE3FC286-752E-4B2C-90B9-4687D0D22AFF}|ChatClient\\ChatClient.csproj|c:\\it\\codetasks\\chatclient\\chatclient\\encryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE3FC286-752E-4B2C-90B9-4687D0D22AFF}|ChatClient\\ChatClient.csproj|solutionrelative:chatclient\\encryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE3FC286-752E-4B2C-90B9-4687D0D22AFF}|ChatClient\\ChatClient.csproj|c:\\users\\msbr\\onedrive\\\u0130\u015F masas\u0131\\consolechat\\chatclient\\chatclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3FC286-752E-4B2C-90B9-4687D0D22AFF}|ChatClient\\ChatClient.csproj|solutionrelative:chatclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE3FC286-752E-4B2C-90B9-4687D0D22AFF}|ChatClient\\ChatClient.csproj|c:\\it\\codetasks\\chatclient\\chatclient\\aesgcmexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE3FC286-752E-4B2C-90B9-4687D0D22AFF}|ChatClient\\ChatClient.csproj|solutionrelative:chatclient\\aesgcmexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE3FC286-752E-4B2C-90B9-4687D0D22AFF}|ChatClient\\ChatClient.csproj|c:\\it\\codetasks\\chatclient\\chatclient\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DE3FC286-752E-4B2C-90B9-4687D0D22AFF}|ChatClient\\ChatClient.csproj|c:\\users\\msbr\\onedrive\\\u0130\u015F masas\u0131\\consolechat\\chatclient\\chatclient\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE3FC286-752E-4B2C-90B9-4687D0D22AFF}|ChatClient\\ChatClient.csproj|solutionrelative:chatclient\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE3FC286-752E-4B2C-90B9-4687D0D22AFF}|ChatClient\\ChatClient.csproj|c:\\it\\codetasks\\chatclient\\chatclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE3FC286-752E-4B2C-90B9-4687D0D22AFF}|ChatClient\\ChatClient.csproj|solutionrelative:chatclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE3FC286-752E-4B2C-90B9-4687D0D22AFF}|ChatClient\\ChatClient.csproj|c:\\users\\msbr\\onedrive\\\u0130\u015F masas\u0131\\consolechat\\chatclient\\chatclient\\aesgcmexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3FC286-752E-4B2C-90B9-4687D0D22AFF}|ChatClient\\ChatClient.csproj|solutionrelative:chatclient\\aesgcmexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3FC286-752E-4B2C-90B9-4687D0D22AFF}|ChatClient\\ChatClient.csproj|c:\\users\\msbr\\onedrive\\\u0130\u015F masas\u0131\\consolechat\\chatclient\\chatclient\\encryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3FC286-752E-4B2C-90B9-4687D0D22AFF}|ChatClient\\ChatClient.csproj|solutionrelative:chatclient\\encryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +26,61 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Encryption.cs",
-              "DocumentMoniker": "C:\\It\\CodeTasks\\ChatClient\\ChatClient\\Encryption.cs",
-              "RelativeDocumentMoniker": "ChatClient\\Encryption.cs",
-              "ToolTip": "C:\\It\\CodeTasks\\ChatClient\\ChatClient\\Encryption.cs",
-              "RelativeToolTip": "ChatClient\\Encryption.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "DocumentIndex": 1,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\msbr\\OneDrive\\\u0130\u015F masas\u0131\\ConsoleChat\\ChatClient\\ChatClient\\Client.cs",
+              "RelativeDocumentMoniker": "ChatClient\\Client.cs",
+              "ToolTip": "C:\\Users\\msbr\\OneDrive\\\u0130\u015F masas\u0131\\ConsoleChat\\ChatClient\\ChatClient\\Client.cs",
+              "RelativeToolTip": "ChatClient\\Client.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T20:06:44.751Z",
+              "WhenOpened": "2024-09-08T20:00:21.869Z",
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "Encryption.cs",
+              "DocumentMoniker": "C:\\Users\\msbr\\OneDrive\\\u0130\u015F masas\u0131\\ConsoleChat\\ChatClient\\ChatClient\\Encryption.cs",
+              "RelativeDocumentMoniker": "ChatClient\\Encryption.cs",
+              "ToolTip": "C:\\Users\\msbr\\OneDrive\\\u0130\u015F masas\u0131\\ConsoleChat\\ChatClient\\ChatClient\\Encryption.cs",
+              "RelativeToolTip": "ChatClient\\Encryption.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T20:06:44.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "AESGCMExample.cs",
-              "DocumentMoniker": "C:\\It\\CodeTasks\\ChatClient\\ChatClient\\AESGCMExample.cs",
+              "DocumentMoniker": "C:\\Users\\msbr\\OneDrive\\\u0130\u015F masas\u0131\\ConsoleChat\\ChatClient\\ChatClient\\AESGCMExample.cs",
               "RelativeDocumentMoniker": "ChatClient\\AESGCMExample.cs",
-              "ToolTip": "C:\\It\\CodeTasks\\ChatClient\\ChatClient\\AESGCMExample.cs",
+              "ToolTip": "C:\\Users\\msbr\\OneDrive\\\u0130\u015F masas\u0131\\ConsoleChat\\ChatClient\\ChatClient\\AESGCMExample.cs",
               "RelativeToolTip": "ChatClient\\AESGCMExample.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAABOAAAA",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-09T19:51:26.088Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Client.cs",
-              "DocumentMoniker": "C:\\It\\CodeTasks\\ChatClient\\ChatClient\\Client.cs",
-              "RelativeDocumentMoniker": "ChatClient\\Client.cs",
-              "ToolTip": "C:\\It\\CodeTasks\\ChatClient\\ChatClient\\Client.cs",
-              "RelativeToolTip": "ChatClient\\Client.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T20:00:21.869Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\It\\CodeTasks\\ChatClient\\ChatClient\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\msbr\\OneDrive\\\u0130\u015F masas\u0131\\ConsoleChat\\ChatClient\\ChatClient\\Program.cs",
               "RelativeDocumentMoniker": "ChatClient\\Program.cs",
-              "ToolTip": "C:\\It\\CodeTasks\\ChatClient\\ChatClient\\Program.cs",
+              "ToolTip": "C:\\Users\\msbr\\OneDrive\\\u0130\u015F masas\u0131\\ConsoleChat\\ChatClient\\ChatClient\\Program.cs",
               "RelativeToolTip": "ChatClient\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T19:59:25.718Z"
+              "WhenOpened": "2024-09-08T19:59:25.718Z",
+              "EditorCaption": ""
             }
           ]
         }

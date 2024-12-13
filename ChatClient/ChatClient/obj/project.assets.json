@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net8.0": {
-      "BouncyCastle.Cryptography/2.4.0": {
+      "BouncyCastle.Cryptography/2.5.0": {
         "type": "package",
         "compile": {
           "lib/net6.0/BouncyCastle.Cryptography.dll": {
@@ -18,16 +18,16 @@
     }
   },
   "libraries": {
-    "BouncyCastle.Cryptography/2.4.0": {
-      "sha512": "SwXsAV3sMvAU/Nn31pbjhWurYSjJ+/giI/0n6tCrYoupEK34iIHCuk3STAd9fx8yudM85KkLSVdn951vTng/vQ==",
+    "BouncyCastle.Cryptography/2.5.0": {
+      "sha512": "rc7vRCq/KD3GtIwSgRtjanGaBwTb9nLenFDZnEcauWlssuuEoxcbMfWA3QWWho6QDMSOSkWjs657McdHzEtEcw==",
       "type": "package",
-      "path": "bouncycastle.cryptography/2.4.0",
+      "path": "bouncycastle.cryptography/2.5.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.md",
         "README.md",
-        "bouncycastle.cryptography.2.4.0.nupkg.sha512",
+        "bouncycastle.cryptography.2.5.0.nupkg.sha512",
         "bouncycastle.cryptography.nuspec",
         "lib/net461/BouncyCastle.Cryptography.dll",
         "lib/net461/BouncyCastle.Cryptography.xml",
@@ -41,7 +41,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "BouncyCastle.Cryptography >= 2.4.0"
+      "BouncyCastle.Cryptography >= 2.5.0"
     ]
   },
   "packageFolders": {
@@ -51,11 +51,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\It\\CodeTasks\\ChatClient\\ChatClient\\ChatClient.csproj",
+      "projectUniqueName": "C:\\Users\\msbr\\OneDrive\\İş masası\\ConsoleChat\\ChatClient\\ChatClient\\ChatClient.csproj",
       "projectName": "ChatClient",
-      "projectPath": "C:\\It\\CodeTasks\\ChatClient\\ChatClient\\ChatClient.csproj",
+      "projectPath": "C:\\Users\\msbr\\OneDrive\\İş masası\\ConsoleChat\\ChatClient\\ChatClient\\ChatClient.csproj",
       "packagesPath": "C:\\Users\\msbr\\.nuget\\packages\\",
-      "outputPath": "C:\\It\\CodeTasks\\ChatClient\\ChatClient\\obj\\",
+      "outputPath": "C:\\Users\\msbr\\OneDrive\\İş masası\\ConsoleChat\\ChatClient\\ChatClient\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -87,8 +87,9 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "direct"
-      }
+        "auditMode": "all"
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -96,7 +97,7 @@
         "dependencies": {
           "BouncyCastle.Cryptography": {
             "target": "Package",
-            "version": "[2.4.0, )"
+            "version": "[2.5.0, )"
           }
         },
         "imports": [
@@ -115,7 +116,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

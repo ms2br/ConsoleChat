@@ -14,7 +14,7 @@ namespace ChatClient
 
         public byte[] CombineEncryptMessage(string message)
         {
-            byte[] encryptMessage = EncryptMessage(Encoding.UTF8.GetBytes(message));
+            byte[] encryptMessage = EncryptMessage(Encoding.ASCII.GetBytes(message));
             byte[] combineMessage = new byte[Iv.Length + encryptMessage.Length];
             Array.Copy(Iv, 0, combineMessage, 0, Iv.Length);
             Array.Copy(encryptMessage, 0, combineMessage, Iv.Length, encryptMessage.Length);

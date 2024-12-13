@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "mnZvYmMYY7eAoytcZugm11VKCn2W6fFmZM2/a3kp/BbwQ4aG7Di431Qult0KjNDfSpAjkatDz7C8Thfs4M8UBg==",
+  "dgSpecHash": "4QxH7C0Ngo4=",
   "success": true,
-  "projectFilePath": "C:\\It\\CodeTasks\\ChatClient\\ChatClient\\ChatClient.csproj",
+  "projectFilePath": "C:\\Users\\msbr\\OneDrive\\İş masası\\ConsoleChat\\ChatClient\\ChatClient\\ChatClient.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\msbr\\.nuget\\packages\\bouncycastle.cryptography\\2.4.0\\bouncycastle.cryptography.2.4.0.nupkg.sha512"
+    "C:\\Users\\msbr\\.nuget\\packages\\bouncycastle.cryptography\\2.5.0\\bouncycastle.cryptography.2.5.0.nupkg.sha512"
   ],
   "logs": []
 }
